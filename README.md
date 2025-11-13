@@ -1,7 +1,5 @@
 # Hi 👋, I'm joosep alasoo
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joosepalasoo&label=Profile views&color=0e75b6&style=flat" alt="joosepalasoo" /> </p>
-
 - 🔭 I'm currently working on **Nothing Because im learning**
 
 - 🌱 I'm currently learning **It-junior specialist at HKHK**
